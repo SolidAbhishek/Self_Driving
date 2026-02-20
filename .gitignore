@@ -1,4 +1,4 @@
-# ROS2 build folders
+# ROS2
 build/
 install/
 log/
@@ -7,8 +7,9 @@ log/
 __pycache__/
 *.pyc
 
-# VS Code
+# IDE
 .vscode/
+.idea/
 
 # CMake
 CMakeFiles/
@@ -19,3 +20,4 @@ CMakeCache.txt
 
 # Misc
 *.swp
+*.log
